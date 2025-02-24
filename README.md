@@ -4,6 +4,11 @@
 <img align= "right"alt="Coding" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 
+- 🔭 I’m currently working on **Freelance**
+
+- 🌱 I’m currently learning **Frameworks ,API ,Flutter ,DevOps**
+
+- 👯 I’m looking to collaborate on (Software Engineer Intern)
 
 - 👨‍💻 All of my projects are available at [https://infokavishka.netlify.app/](https://infokavishka.netlify.app/)
 
