@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavishka Thilakarathna</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align= "right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=geekyprawins&color=brightgreen&label=Profile+Views" height="20" width="120.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-codxlab&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-codxlab" /> </p>
