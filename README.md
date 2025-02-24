@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavishka Thilakarathna</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align= "center"alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align= "center"alt="Coder GIF" height=250 width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 
 
