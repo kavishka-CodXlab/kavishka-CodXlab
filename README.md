@@ -1,14 +1,9 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://infokavishka.netlify.app/)
 <h1 align="center">Hi 👋, I'm Kavishka Thilakarathna</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align= "right"alt="Coder GIF" height=250 width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align= "right"alt="Coding" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-codxlab&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-codxlab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishka-codxlab" alt="kavishka-codxlab" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kavishka_thilkarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kavishka_thilkarathna?logo=twitter&style=for-the-badge" alt="kavishka_thilkarathna" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://infokavishka.netlify.app/](https://infokavishka.netlify.app/)
 
@@ -17,6 +12,12 @@
 - 📫 How to reach me **tkavishka101@gmail.com**
 
 - 📄 Know about my experiences [https://infokavishka.netlify.app/](https://infokavishka.netlify.app/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishka-codxlab&label=Profile%20views&color=0e75b6&style=flat" alt="kavishka-codxlab" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishka-codxlab" alt="kavishka-codxlab" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kavishka_thilkarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kavishka_thilkarathna?logo=twitter&style=for-the-badge" alt="kavishka_thilkarathna" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
